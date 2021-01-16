@@ -35,4 +35,7 @@ Datasets and ipython notebook are needed to be placed in the same folder.
 To run the ipynb notebook, in the ipynb user need to modify : PATH = "User_defined_path_to_desired_folder"
 
 
+Prediction: An output/prediction, 'cab_fare_prediction_python.csv' file is also attached.
+
+
 
