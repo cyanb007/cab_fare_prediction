@@ -16,17 +16,16 @@ We have two datasets.
 
 The datasets contain the following features.
 Independant Attributes/Features (in both of the datasets) :
-    * pickup_datetime - timestamp value indicating when the cab ride started.
-    * pickup_longitude - float for longitude coordinate of where the cab ride started.
-    * pickup_latitude - float for latitude coordinate of where the cab ride started.
-    * dropoff_longitude - float for longitude coordinate of where the cab ride ended.
-    * dropoff_latitude - float for latitude coordinate of where the cab ride ended.
-    * passenger_count - an integer indicating the number of passengers in the cab ride.
+ a) pickup_datetime - timestamp value indicating when the cab ride started.
+ b) pickup_longitude - float for longitude coordinate of where the cab ride started.
+ c) pickup_latitude - float for latitude coordinate of where the cab ride started.
+ d) dropoff_longitude - float for longitude coordinate of where the cab ride ended.
+ e) dropoff_latitude - float for latitude coordinate of where the cab ride ended.
+ f) passenger_count - an integer indicating the number of passengers in the cab ride.
     
     
 Dependant Attribute/Feature (only in train_cab.csv) :
-
-* fare_amount - Fare of the cab paid by passengers in their respective rides.
+a) fare_amount - Fare of the cab paid by passengers in their respective rides.
 
 Usage:
 Primarily, python 3, Jupyter notebook are needed. 
