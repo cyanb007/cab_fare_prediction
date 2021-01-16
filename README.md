@@ -16,11 +16,13 @@ We have two datasets.
 
 The datasets contain the following features.
 Independant Attributes/Features (in both of the datasets) :
- a) pickup_datetime - timestamp value indicating when the cab ride started.
- b) pickup_longitude - float for longitude coordinate of where the cab ride started.
- c) pickup_latitude - float for latitude coordinate of where the cab ride started.
- d) dropoff_longitude - float for longitude coordinate of where the cab ride ended.
- e) dropoff_latitude - float for latitude coordinate of where the cab ride ended.
+
+
+ a) pickup_datetime - timestamp value indicating when the cab ride started,
+ b) pickup_longitude - float for longitude coordinate of where the cab ride started,
+ c) pickup_latitude - float for latitude coordinate of where the cab ride started,
+ d) dropoff_longitude - float for longitude coordinate of where the cab ride ended,
+ e) dropoff_latitude - float for latitude coordinate of where the cab ride ended, and
  f) passenger_count - an integer indicating the number of passengers in the cab ride.
     
     
