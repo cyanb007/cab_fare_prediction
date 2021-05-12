@@ -1,5 +1,5 @@
-# ed_projects
-Initial projects for the study of data science
+# cab_fare_prediction
+Initial project for the study of data science
 
 Problem Statement :
 
